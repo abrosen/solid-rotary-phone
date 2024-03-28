@@ -2,12 +2,15 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+A video game mod for rimworld or stardew valley
+
+A visual novel in RenPy
+
+A stock price prediction program using monte carlo
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Awesome Alice and Best Bob
 
 ## Do you have any questions of your own?
-
-TODO
+Nope
