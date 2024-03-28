@@ -12,6 +12,8 @@ A discord bot
 
 That cool laser Tripwire
 
+A lego bot
+
 ## If you plan to collaborate with one or two classmates, what are their names?
 
 Awesome Alice and Best Bob
