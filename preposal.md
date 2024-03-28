@@ -8,6 +8,8 @@ A visual novel in RenPy
 
 A stock price prediction program using monte carlo
 
+That cool laser Tripwire
+
 ## If you plan to collaborate with one or two classmates, what are their names?
 
 Awesome Alice and Best Bob
